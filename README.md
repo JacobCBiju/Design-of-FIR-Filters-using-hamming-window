@@ -11,7 +11,8 @@
   PC Installed with SCILAB 
 
 # PROGRAM 
-**Low Pass FIR Filter**
+#**Low Pass FIR Filter**
+
 clc;
 
 clear;
@@ -81,7 +82,7 @@ ylabel('Phase (radians)');
 title('Phase Response');
 
 
-**High Pass FIR Filter**
+#**High Pass FIR Filter**
 
 clc;
 
