@@ -12,7 +12,7 @@
 
 # PROGRAM 
 #**Low Pass FIR Filter**
-
+```
 clc;
 
 clear;
@@ -83,9 +83,9 @@ title('Phase Response');
 
 
 
-
+```
 #**High Pass FIR Filter**
-
+```
 clc;
 
 clear;
@@ -157,7 +157,7 @@ xlabel('Normalized Frequency');
 ylabel('Phase (radians)');
 
 title('Phase Response');
-
+```
 # OUTPUT
 
 Low Pass FIR Filter
